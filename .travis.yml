@@ -1,7 +1,7 @@
 # Recipe for build and integration testing on Travis-CI
 
 # Try beta version of new travis-yml checker
-version: "= 0"
+version: ~> 1.0
 # For extra debugging of failed jobs, see
 # https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image
 
